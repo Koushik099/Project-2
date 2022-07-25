@@ -8,6 +8,6 @@ I gave lots of effort to complete this landing page. Using CSS3, The new Utiliti
 
 # View this Project On Netlify, Here is the LInk.
 
-**[FoodSite](https://food.netlify.app/)**
+**[FoodSite](https://newfoodsite.netlify.app/)**
 
 **Thank You.**
